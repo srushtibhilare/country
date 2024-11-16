@@ -1,0 +1,168 @@
+{
+  "countries": [
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 126000000,
+      "travelHighlights": [
+        "Cherry blossoms",
+        "Mount Fuji",
+        "Historic temples in Kyoto"
+      ],
+      "interestingFacts": [
+        "Japan has more than 5 million vending machines, selling everything from hot meals to fresh flowers.",
+        "The country experiences over 1,500 earthquakes each year, though most are mild.",
+        "The Shinkansen bullet train runs at speeds up to 320 km/h."
+      ]
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 214000000,
+      "travelHighlights": [
+        "Amazon Rainforest",
+        "Rio de Janeiro’s beaches",
+        "The Carnival"
+      ],
+      "interestingFacts": [
+        "Brazil is the only South American country where Portuguese is the official language.",
+        "Home to the Amazon River, which has the largest water volume of any river in the world.",
+        "The Christ the Redeemer statue in Rio de Janeiro is one of the New Seven Wonders of the World."
+      ]
+    },
+    {
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "travelHighlights": [
+        "Great Barrier Reef",
+        "Sydney Opera House",
+        "Unique wildlife"
+      ],
+      "interestingFacts": [
+        "Australia is home to over 10,000 beaches, more than any other country.",
+        "Over 80% of Australia’s flora and fauna are unique to the continent.",
+        "Australia is the only continent covered by a single country."
+      ]
+    },
+    {
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "travelHighlights": ["Taj Mahal", "Kerala backwaters", "The Himalayas"],
+      "interestingFacts": [
+        "India is the birthplace of yoga and several major world religions.",
+        "It has the world’s largest postal network.",
+        "Indian Railways is one of the largest employers in the world."
+      ]
+    },
+    {
+      "name": "France",
+      "capital": "Paris",
+      "population": 67000000,
+      "travelHighlights": ["Eiffel Tower", "Louvre Museum", "French Riviera"],
+      "interestingFacts": [
+        "France is the most visited country in the world, with over 80 million tourists per year.",
+        "The Louvre in Paris is the world's largest art museum.",
+        "The French language has influenced many other languages, especially English."
+      ]
+    },
+    {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "travelHighlights": [
+        "Niagara Falls",
+        "Banff National Park",
+        "Quebec City"
+      ],
+      "interestingFacts": [
+        "Canada is the second-largest country in the world by total area.",
+        "It has the longest coastline of any country.",
+        "The official languages are English and French."
+      ]
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "population": 60000000,
+      "travelHighlights": [
+        "Colosseum",
+        "Venice's canals",
+        "Leaning Tower of Pisa"
+      ],
+      "interestingFacts": [
+        "Italy is home to the most UNESCO World Heritage Sites in the world.",
+        "The Italian language evolved from Latin, the language of the Romans.",
+        "Italy has the world’s oldest university, the University of Bologna, founded in 1088."
+      ]
+    },
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "population": 126000000,
+      "travelHighlights": [
+        "Chichen Itza",
+        "Beaches of Cancun",
+        "Frida Kahlo Museum"
+      ],
+      "interestingFacts": [
+        "Mexico is home to the largest pyramid in the world by volume, the Great Pyramid of Cholula.",
+        "It has a rich history, with ancient civilizations such as the Aztecs and Mayans.",
+        "Mexico introduced chocolate, chilies, and corn to the world."
+      ]
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "travelHighlights": [
+        "Brandenburg Gate",
+        "Neuschwanstein Castle",
+        "Oktoberfest in Munich"
+      ],
+      "interestingFacts": [
+        "Germany is known for its engineering and is home to many world-class car manufacturers.",
+        "It has over 2,000 castles, with many located along the Romantic Road.",
+        "The country has the largest economy in Europe."
+      ]
+    },
+    {
+      "name": "Russia",
+      "capital": "Moscow",
+      "population": 146000000,
+      "travelHighlights": ["Red Square", "Lake Baikal", "The Kremlin"],
+      "interestingFacts": [
+        "Russia is the largest country in the world by area, covering more than 17 million square kilometers.",
+        "Lake Baikal is the world's deepest and oldest freshwater lake.",
+        "The Trans-Siberian Railway is the longest railway line in the world."
+      ]
+    },
+    {
+      "name": "Egypt",
+      "capital": "Cairo",
+      "population": 100000000,
+      "travelHighlights": ["Pyramids of Giza", "Nile River", "Luxor Temple"],
+      "interestingFacts": [
+        "Egypt is known as the cradle of civilization, with a rich history dating back thousands of years.",
+        "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+        "Egypt has a significant number of ancient monuments and archaeological sites."
+      ]
+    },
+    {
+      "name": "South Africa",
+      "capital": "Pretoria, Cape Town, Bloemfontein",
+      "population": 60000000,
+      "travelHighlights": [
+        "Kruger National Park",
+        "Table Mountain",
+        "Cape Winelands"
+      ],
+      "interestingFacts": [
+        "South Africa has three capital cities: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial).",
+        "It’s known as the 'Rainbow Nation' due to its multicultural diversity.",
+        "South Africa has the highest number of UNESCO World Heritage Sites in Africa."
+      ]
+    }
+  ]
+}

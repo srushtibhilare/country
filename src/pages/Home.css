@@ -1,0 +1,19 @@
+/* Styling for the h tag in the middle above the footer */
+h {
+  text-align: center; /* Centers the text */
+  font-size: 1.5em; /* Adjust font size */
+  margin-top: 2em; /* Adds space from the content above */
+  margin-bottom: 2em; /* Adds space before the footer */
+  color: #333; /* Dark text color for contrast */
+}
+
+/* Footer Styling */
+footer {
+  background-color: #4caf50;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

@@ -1,0 +1,92 @@
+/* Base styling */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Section Styling */
+.section-contacts {
+  padding: 50px 0;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-titlee {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Container styling */
+.contact-wrapper {
+  width: 100%;
+  max-width: 600px;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Input Fields Styling */
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+  color: #333;
+  transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  border-color: #5c6bc0;
+  outline: none;
+}
+
+textarea {
+  resize: vertical;
+}
+
+/* Button Styling */
+button[type="submit"] {
+  padding: 15px;
+  border: none;
+  background-color: green;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #3f51b5;
+}
+
+/* Responsive Styling */
+@media (max-width: 600px) {
+  .contact-wrapper {
+    padding: 20px;
+  }
+
+  .container-titlee {
+    font-size: 2rem;
+  }
+}
